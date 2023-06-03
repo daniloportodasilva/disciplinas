@@ -1,0 +1,47 @@
+body{
+    background-color:#98f7b5c4;
+    font-family: Times New Roman;
+    color: White;
+  }
+  header{
+    position: absolute;
+  margin-left:25%;
+  
+  }
+ .box{
+    background-color:#33f44eeb;
+    padding:9px;
+    border:1px solid ;
+    border-radius:13px;
+    color:Black;
+    text-align:center;
+    margin: 2px;
+  }
+  img{
+    text-align: right;
+  }
+    details{
+      background-color: #31bfefeb;
+      padding: 9px;
+      border:1px solid White ;
+      border-radius:13px;
+      margin:3px;
+    }
+    button{
+  background-color: #5e9bedde;
+      color:White;
+    }
+    button:hover{
+    background-color: rgb(95, 102, 109);
+    color: black;
+    } 
+  fieldset{
+   border:1% solid White;
+   border-radius:10px;
+  }
+  details a{
+    text-decoration:none ;
+  }
+ details:hover summary{
+    color: black;
+ }
